@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a Developer, and Teacher!!
+## I'm a Developer!!
 
 - 🔭 Recently launched E-commerce websites: !
 - 🌱 I’m currently learning everything 🤣
