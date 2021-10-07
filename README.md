@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-EARNED ORACLE JAVA EXPLORER CERTIFICATE
 
+
+## EARNED ORACLE JAVA EXPLORER CERTIFICATE
+
+<img align="left" alt="GitHub" width="29px" src="https://user-images.githubusercontent.com/91560462/136450245-19069454-c58c-4459-b1c6-5e888e22fcb6.png" />
 ![image](https://user-images.githubusercontent.com/91560462/136450245-19069454-c58c-4459-b1c6-5e888e22fcb6.png)
