@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 Recently launched E-commerce websites: !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate more in open source and network with awesome developers !
-- 🥅 2021 Goals: Contribute more to Open Source projects and develop more skills in Golang
+
 
 ### Languages and Tools:
 
