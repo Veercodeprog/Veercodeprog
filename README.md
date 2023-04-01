@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## I'm a Developer!!
 
-- 🔭 Recently launched E-commerce websites: !
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Love computers and programming: !
+- 🌱 My aim is to keep learning
 - 👯 I’m looking to collaborate more in open source and network with awesome developers !
 
 
