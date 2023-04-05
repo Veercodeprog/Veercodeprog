@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 🔭 Love computers and programming: !
 - 🌱 My aim is to keep learning
 - 👯 I’m looking to collaborate more in open source and network with awesome developers !
+- AI and ML.
 
 
 ### Languages and Tools:
