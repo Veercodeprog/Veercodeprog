@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://user-images.githubusercontent.com/91560462/136450245-19069454-c58c-4459-b1c6-5e888e22fcb6.png" alt="Badge 1" style="width: 250px; height: auto;">
+  <img src="https://user-images.githubusercontent.com/91560462/136450245-19069454-c58c-4459-b1c6-5e888e22fcb6.png" alt="Badge 1" style="width: 250px; height: auto; margin-top:18px;">
   <img src="https://images.credly.com/size/250x250/images/3545154f-08b4-4f6f-9592-c356d7108965/Developing_Cloud_Native_Applications.png" alt="Badge 2" style="width: 100px; margin-left: 20px;">
 </div>
 
