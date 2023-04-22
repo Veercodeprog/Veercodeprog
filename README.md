@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a Developer!!
+## I'm a Software Engineer!!
 
 - 🔭 Love computers and programming: !
 - 🌱 My aim is to keep learning
