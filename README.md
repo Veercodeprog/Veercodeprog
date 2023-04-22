@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 
 ## Badges
-<img align="right" height="241" src="https://user-images.githubusercontent.com/91560462/136450245-19069454-c58c-4459-b1c6-5e888e22fcb6.png"  />
+<img align="right" height="241" style="margin-right:30px;" src="https://user-images.githubusercontent.com/91560462/136450245-19069454-c58c-4459-b1c6-5e888e22fcb6.png"  />
 
 ###
 
