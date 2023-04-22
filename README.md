@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 
 ## Badges
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <img src="https://user-images.githubusercontent.com/91560462/136450245-19069454-c58c-4459-b1c6-5e888e22fcb6.png" alt="Badge 1" style="width: 250px; height: auto;">
-    <img src="https://images.credly.com/size/250x250/images/3545154f-08b4-4f6f-9592-c356d7108965/Developing_Cloud_Native_Applications.png" alt="Badge 2" style="width: 100px;">
+    <a href='https://mylearn.oracle.com/ou/learning-path/java-explorer/79726' ><img src='https://i.postimg.cc/VdXzd2TH/136450245-19069454-c58c-4459-b1c6-5e888e22fcb6.png' border='0' alt='136450245-19069454-c58c-4459-b1c6-5e888e22fcb6'/>Java Explorer</a>
+   <a href='https://coursera.org/share/b94dd1f7f519394b6d1527870e6b57bd'><img src='https://i.postimg.cc/p5NgvL2V/68747470733a2f2f696d616765732e637265646c792e636f6d2f73697a652f323530783235302f696d616765732f33353435.png' border='0' alt='68747470733a2f2f696d616765732e637265646c792e636f6d2f73697a652f323530783235302f696d616765732f33353435'/>IBM Developing Cloud Native Applications</a>
 </div>
 
 
