@@ -64,12 +64,14 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Veercodeprog&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 <br />
 <br />
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Veercodeprog&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
