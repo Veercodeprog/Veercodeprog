@@ -1,25 +1,14 @@
-### Hi there 
+### Hi there 👋
 
 <!--
 **Veercodeprog/Veercodeprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ## I'm a Developer!!
 
-- 🔭 Love computers and programming: !
+- 🔭 Love computers and programming!
 - 🌱 My aim is to keep learning
-- 👯 I’m looking to collaborate more in open source and network with awesome developers !
+- 👯 I’m looking to collaborate more in open source and network with awesome developers!
 
 
 ### Languages and Tools:
@@ -42,15 +31,22 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+### Programming Languages Usage:
 
+<!--START_SECTION:my_badges-->
 
-## Badges
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <img src="https://user-images.githubusercontent.com/91560462/136450245-19069454-c58c-4459-b1c6-5e888e22fcb6.png" alt="Badge 1" style="width: 250px; height: auto; vertical-align: middle;">
-    <img src="https://images.credly.com/size/250x250/images/3545154f-08b4-4f6f-9592-c356d7108965/Developing_Cloud_Native_Applications.png" alt="Badge 2" style="width: 100px; vertical-align: middle;">
-</div>
+<!--END_SECTION:my_badges-->
 
+<script src="https://cdn.jsdelivr.net/npm/@vveeresh2000/github-languages-badge@latest/dist/index.min.js"></script>
 
-
-
-
+<script>
+    new GitHubLanguagesBadge({
+        username: 'Veercodeprog',
+        showIcons: true,
+        showProportion: true,
+        columns: 5,
+        customIcons: {
+            'Jupyter Notebook': 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png'
+        }
+    }).renderInto('#my_badges');
+</script>
