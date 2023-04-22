@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 
 
 ![image](https://user-images.githubusercontent.com/91560462/136450245-19069454-c58c-4459-b1c6-5e888e22fcb6.png)
-[![Credly](https://images.credly.com/size/680x680/images/3545154f-08b4-4f6f-9592-c356d7108965/Developing_Cloud_Native_Applications.png)]
+[![Credly](https://images.credly.com/size/300x300/images/3545154f-08b4-4f6f-9592-c356d7108965/Developing_Cloud_Native_Applications.png)]
