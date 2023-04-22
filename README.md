@@ -53,6 +53,8 @@ Here are some ideas to get you started:
   <img height="187" src="https://images.credly.com/size/250x250/images/3545154f-08b4-4f6f-9592-c356d7108965/Developing_Cloud_Native_Applications.png"  />
 </div>
 
+
+
 ###
 
 # 📊 GitHub Stats:
@@ -60,8 +62,12 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Veercodeprog&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Veercodeprog&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Veercodeprog&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Veercodeprog&limit=5&theme=dark&combine_all_yearly_contributions=true)
