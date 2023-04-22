@@ -1,14 +1,25 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **Veercodeprog/Veercodeprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
 
 ## I'm a Developer!!
 
-- 🔭 Love computers and programming!
+- 🔭 Love computers and programming: !
 - 🌱 My aim is to keep learning
-- 👯 I’m looking to collaborate more in open source and network with awesome developers!
+- 👯 I’m looking to collaborate more in open source and network with awesome developers !
 
 
 ### Languages and Tools:
@@ -31,9 +42,29 @@
 <br />
 <br />
 
-### Badges:
 
+
+## Badges
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
     <img src="https://user-images.githubusercontent.com/91560462/136450245-19069454-c58c-4459-b1c6-5e888e22fcb6.png" alt="Badge 1" style="width: 250px; height: auto; vertical-align: middle;">
-    <img src="https://images.credly.com/size/250x250/images/3545154f-08b4-4f6f-9592-c356d7108965/Developing_Cloud_Native_Applications.png" alt="Badge 2" style="width: 100px; margin-bottom:18px">
+    <img src="https://images.credly.com/size/250x250/images/3545154f-08b4-4f6f-9592-c356d7108965/Developing_Cloud_Native_Applications.png" alt="Badge 2" style="width: 100px; vertical-align: middle;">
 </div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Veercodeprog&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Veercodeprog&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Veercodeprog&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Veercodeprog&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Veercodeprog&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Veercodeprog&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
