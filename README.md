@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## I'm a Software Engineer!!
 
-- 🔭 Love computers and programming: !
+- 🔧 Love building and optimizing servers, backends, and systems
 - 🌱 My aim is to keep learning
-- 👯 I’m looking to collaborate more in open source and network with awesome developers !
+- 🌐 Open source advocate, eager to collaborate
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Veercodeprog&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
