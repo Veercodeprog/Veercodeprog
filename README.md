@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ## I'm a Software Engineer!!
 
 - 🔧 Love building and optimizing servers, backends, and systems
@@ -22,22 +23,23 @@ Here are some ideas to get you started:
 - 🌐 Open source advocate, eager to collaborate
 
 # 📊 GitHub Stats:
-!<br/>
-!<br/>
-!
+![](https://github-readme-stats.vercel.app/api?username=Veercodeprog&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Veercodeprog&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Veercodeprog&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=Makefile,HTML)
 
 <br />
 <br />
 
 ## 🏆 GitHub Trophies
-!
+![](https://github-profile-trophy.vercel.app/?username=Veercodeprog&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 <br />
 <br />
 
 ### 🔝 Top Contributed Repo
-!
+![](https://github-contributor-stats.vercel.app/api?username=Veercodeprog&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
 ## Badges
